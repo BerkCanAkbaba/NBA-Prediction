@@ -94,13 +94,3 @@ Contributions to this project are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature-branch-name`
 5. Submit a pull request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-Berkhan Guzeller - berrkhanguzeller@gmail.com
-
-Project Link: https://github.com/yourusername/nba-game-outcome-prediction
-
----
-Created by Berkhan Guzeller | Istanbul Kultur University | Computer Science, 3rd Year
